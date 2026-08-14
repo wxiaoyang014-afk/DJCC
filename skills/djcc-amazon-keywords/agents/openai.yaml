@@ -1,0 +1,5 @@
+interface:
+  display_name: "DJCC Amazon 关键词库"
+  short_description: "构建、校验并交付 Amazon 关键词库五阶段工作流"
+  default_prompt: "Use $djcc-amazon-keywords to build and verify an Amazon keyword-library workbook."
+
