@@ -1,0 +1,7 @@
+interface:
+  display_name: "DJCC 亚马逊关键词库"
+  short_description: "按固定模板执行亚马逊关键词库 Stage 1-6"
+  default_prompt: "Use $djcc-amazon-keywords to build and verify a DJCC Amazon keyword library with the supplied fixed templates."
+
+policy:
+  allow_implicit_invocation: true
